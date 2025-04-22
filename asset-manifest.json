@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/webai-demo/static/css/main.fc41d85b.css",
-    "main.js": "/webai-demo/static/js/main.07ef01ce.js",
+    "main.js": "/webai-demo/static/js/main.c00d1159.js",
     "static/js/779.d7182871.chunk.js": "/webai-demo/static/js/779.d7182871.chunk.js",
     "static/js/453.6c8d5847.chunk.js": "/webai-demo/static/js/453.6c8d5847.chunk.js",
     "static/js/773.00c87c83.chunk.js": "/webai-demo/static/js/773.00c87c83.chunk.js",
     "index.html": "/webai-demo/index.html",
     "main.fc41d85b.css.map": "/webai-demo/static/css/main.fc41d85b.css.map",
-    "main.07ef01ce.js.map": "/webai-demo/static/js/main.07ef01ce.js.map",
+    "main.c00d1159.js.map": "/webai-demo/static/js/main.c00d1159.js.map",
     "453.6c8d5847.chunk.js.map": "/webai-demo/static/js/453.6c8d5847.chunk.js.map",
     "773.00c87c83.chunk.js.map": "/webai-demo/static/js/773.00c87c83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc41d85b.css",
-    "static/js/main.07ef01ce.js"
+    "static/js/main.c00d1159.js"
   ]
 }
