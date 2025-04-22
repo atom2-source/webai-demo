@@ -1,6 +1,6 @@
 {
-  "short_name": "Web AI Demo",
-  "name": "Web AI Demo with TensorFlow.js and Gemini API",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
